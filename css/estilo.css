@@ -13,5 +13,22 @@
 .titulos{
 
   text-align: center;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+}
+
+.imgServicios{
+
+  width: 153px;
+  height: 153px;
+  margin-bottom: 20px;
+
+}
+
+.objectosCenter{
+  text-align: center;
+  justify-content:center;
+}
+
+.justificado{
+  text-align: justify;
 }
