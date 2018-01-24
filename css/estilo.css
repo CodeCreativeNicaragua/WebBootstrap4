@@ -3,7 +3,10 @@
   margin-left: 70%;
 }
 
+.alto{
 
+  height: 760px;
+}
 
 .slider{
 
@@ -31,4 +34,29 @@
 
 .justificado{
   text-align: justify;
+}
+
+.footer{
+
+  background: #343a40;
+}
+
+
+.color-footer{
+
+  color: #fff;
+}
+
+.top{
+
+  margin-top: 50px;
+
+}
+
+.color-subfooter{
+  background:  #1C2833;
+}
+
+.textLeft{
+  text-align: center;
 }
