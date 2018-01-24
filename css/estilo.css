@@ -27,6 +27,14 @@
 
 }
 
+.imgproceso{
+
+  width: 70px;
+  height: 70px;
+  margin-bottom: 20px;
+
+}
+
 .objectosCenter{
   text-align: center;
   justify-content:center;
